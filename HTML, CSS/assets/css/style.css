@@ -1,0 +1,63 @@
+/* h3, h2 {
+    color: red;
+} */
+h1.heading-tags {
+    color: aqua;
+}
+
+.heading-tags  h1{
+    color: red;
+}
+
+/* #test-id h1{
+    color: blue;
+} */
+
+/* #test-id .heading-tags {
+    color: aqua;
+} */
+
+
+/* .heading-tags.heading-three {
+    color: aqua;
+} */
+
+
+p {
+    color: blueviolet;
+}
+
+
+div p {
+    color: burlywood;
+}
+
+div > p {
+    color: brown;
+}
+
+div + p {
+    color: green;
+}
+
+div ~ p {
+    color: chartreuse;
+}
+
+div p{
+    background-color: red;
+    color: yellow;
+
+    font-size: 14px;
+}
+
+/* div:hover p{
+    color: blue;
+    background-color: aqua;
+} */
+
+
+
+
+
+
